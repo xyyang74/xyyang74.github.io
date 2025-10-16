@@ -43,13 +43,13 @@ To address these topics, I employ a multimodal methodological approach encompass
 
 # Publications {#publications}
 ## Journal Articles
+- **Yang, X.-Y.**, Zhao, C., Zuo, Z., Li, A., Luo, H.†, He, Q.†, & Fang, F†. Frequency-dependent photic modulation of wakeful consolidation in visual learning. *Nature Communications*, (accepted).
 - **Yang, X.-Y.**, He, Q. & Fang, F†. Transcranial direct current stimulation over the visual cortex facilitates awake consolidation of visual perceptual learning. *Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation 15*, 380-382 (2022).[[link]](<https://www.brainstimjrnl.com/article/S1935-861X(22)00025-0/fulltext>)
+- Liu, C.†, **Yang, X.-Y.** & Xu, X. Brain state model: A novel method to represent the rhythmicity of object-specific selective attention from magnetoencephalography data. *Neurocomputing 634*, 129920 (2025).[[link]](<https://www.sciencedirect.com/science/article/pii/S0925231225005922?via%3Dihub>)
 - He, Q., **Yang, X.-Y.**, Gong, B., Bi, K. & Fang, F†. Boosting visual perceptual learning by transcranial alternating current stimulation over the visual cortex at alpha frequency. *Brain Stimulation 15*, 546-553 (2022).[[link]](<https://www.brainstimjrnl.com/article/S1935-861X(22)00047-X/fulltext>)
 - He, Q., **Yang, X.-Y.**, Zhao, D. & Fang, F†. Enhancement of visual perception by combining transcranial electrical stimulation and visual perceptual training. *Medical Review 2*, 271-284, (2022).[[link]](<https://www.degruyterbrill.com/document/doi/10.1515/mr-2022-0010/html>)
-- Liu, C.†, **Yang, X.-Y.** & Xu, X. Brain state model: A novel method to represent the rhythmicity of object-specific selective attention from magnetoencephalography data. *Neurocomputing 634*, 129920 (2025).[[link]](<https://www.sciencedirect.com/science/article/pii/S0925231225005922?via%3Dihub>)
 
 ## In Preparation
-- **Yang, X.-Y.**, Zhao, C., Zuo, Z., Li, A., Luo, H.†, He, Q.†, & Fang, F†. Frequency-dependent photic modulation of wakeful consolidation in visual learning. Under review (*Nature Communications*).
 - Bi, K.#, **Yang, X.-Y.#**, Fang, F.† Causal role of the right superior parietal lobule in mental effort during multiple object tracking: insights from fMRI, pupillometry, and HD-tDCS.
 - He, Q.#, **Yang, X.-Y.#**, Zhu, X. #, Fang, F.† The effect of tDCS on wakeful consolidation is mediated by the sleep-wake cycle.
 - Bi, K.\#, **Yang, X.-Y.\#**, Chen, L., Fang, F.† A comprehensive investigation on HD-tES effect on visual search in static scenes and underlying mechanisms.  
