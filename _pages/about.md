@@ -37,10 +37,10 @@ To address these topics, I employ a multimodal methodological approach encompass
 </dl>
 
 ## Research Interests
+
 **Currently engaged in:**
 - Visual learning/plasticity, attention mechanisms
 - Neuromodulation and computational modeling of visual processes
-<br>
 
 **Also excited to extend this to:**
 - Intracranial recordings (sEEG, ECoG) for high-resolution neural dynamics
