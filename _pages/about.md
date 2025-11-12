@@ -37,9 +37,13 @@ To address these topics, I employ a multimodal methodological approach encompass
 </dl>
 
 ## Research Interests
-- Visual learning, plasticity, and consolidation mechanisms
-- Neural bases of attention and effort
-- Neuromodulation and computational modeling approaches
+**Currently engaged in:**
+- Visual learning/plasticity, attention mechanisms
+- Neuromodulation and computational modeling of visual processes
+**Also excited to extend this to:**
+- Intracranial recordings (sEEG, ECoG) for high-resolution neural dynamics
+- Abstract and rule-based reasoning as higher-order cognitive processes
+- Neural mechanisms underlying psychiatric and cognitive disorders
 
 # Publications {#publications}
 ## Journal Articles
@@ -97,7 +101,7 @@ Teaching Assistant: *General Psychology, Frontiers in Psychological Sciences, Bi
 
 
 # CV {#cv}
-[My CV (Ver. 202505)](/files/XinyueYang_CV_Ver202505.pdf)
+[My CV (Ver. 202511)](/files/XinyueYang_CV_short_202511.pdf)
 
 # Outside the Lab {#outside-lab}
 Outside of the lab, I enjoy swimming for relaxation, playing tennis for both exercise and a bit of competition, and hiking to explore new landscapes and recharge in nature. (Animal lovers, [click here](/gallery/)🐾)
