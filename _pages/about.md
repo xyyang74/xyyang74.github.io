@@ -49,7 +49,7 @@ To address these topics, I employ a multimodal methodological approach encompass
 
 # Publications {#publications}
 ## Journal Articles
-- **Yang, X.-Y.**, Zhao, C., Zuo, Z., Li, A., Luo, H.†, He, Q.†, & Fang, F†. Frequency-dependent photic modulation of wakeful consolidation in visual learning. *Nature Communications*, (2025). [[link]](<https://www.nature.com/articles/s41467-025-66555-5>)
+- **Yang, X.-Y.**, Zhao, C., Zuo, Z., Li, A., Luo, H.†, He, Q.†, & Fang, F†. Frequency-dependent photic modulation of wakeful consolidation in visual learning. *Nature Communications 16*, 11603 (2025). [[link]](<https://www.nature.com/articles/s41467-025-66555-5>)
 - **Yang, X.-Y.**, He, Q. & Fang, F†. Transcranial direct current stimulation over the visual cortex facilitates awake consolidation of visual perceptual learning. *Brain Stimulation 15*, 380-382 (2022).[[link]](<https://www.brainstimjrnl.com/article/S1935-861X(22)00025-0/fulltext>)
 - Liu, C.†, **Yang, X.-Y.** & Xu, X. Brain state model: A novel method to represent the rhythmicity of object-specific selective attention from magnetoencephalography data. *Neurocomputing 634*, 129920 (2025).[[link]](<https://www.sciencedirect.com/science/article/pii/S0925231225005922?via%3Dihub>)
 - He, Q., **Yang, X.-Y.**, Gong, B., Bi, K. & Fang, F†. Boosting visual perceptual learning by transcranial alternating current stimulation over the visual cortex at alpha frequency. *Brain Stimulation 15*, 546-553 (2022).[[link]](<https://www.brainstimjrnl.com/article/S1935-861X(22)00047-X/fulltext>)
@@ -99,7 +99,7 @@ Teaching Assistant: *General Psychology, Frontiers in Psychological Sciences, Bi
 
 <br>
 
-## Causal contribution of the right superior parietal lobule to mental effort in shaping multiple object tracking performance
+## Causal contribution of the right superior parietal lobule to effortful attention allocation in shaping multiple object tracking performance
 > In this study, we showed that increasing objective tracking load increased pupil size (subjective mental effort), mediated by increased BOLD responses in the right superior parietal lobule (rSPL). Anodal high-definition transcranial direct current stimulation (a-HD-tDCS) over rSPL increased tracking accuracy, mediated by increased the pupil size during tracking. By combining HD-tDCS and mediation analyses, we identified a causal role of rSPL in mental effort shaping visual tracking performance.
 > <img src="/images/portfolio_MOT.png" alt="portfolio figure" style="width:100%; height:auto;">  
 
